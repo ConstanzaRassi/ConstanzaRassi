@@ -1,14 +1,16 @@
 # Hi there, I'm Coti 👋 
 
-## I'm a software developer
+## 🙋About me
+### I´m a software developer 
 
-- 🌱 I’m currently learning some front-end frameworks 🤣
-- 🥅 2022 Goals: Learn more about .Net Core
-- ⚡ Fun fact: 
+- ⚡ I’m currently studying technical degree in programming
+- ⚡ I´m working on Juan Toselli Intl Tours
+- ⚡ You can see my portfolios at My Portfolio 
+- ⚡ You can contact me **cotirassi@gmail.com**
 
 ### Connect with me:
 
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" href="https://instagram.com/cotirassi"/>
+
 
 ![Constanza Rassi's GitHub stats](https://github-readme-stats.vercel.app/api?username=constanzarassi&show_icons=true&theme=tokyonight)
 
