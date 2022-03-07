@@ -12,7 +12,8 @@
 
 
 
-![Constanza Rassi's GitHub stats](https://github-readme-stats.vercel.app/api?username=constanzarassi&show_icons=true&theme=tokyonight)
+![Constanza Rassi's GitHub stats](https://github-readme-stats.vercel.app/api?username=constanzarassi&show_icons=true&theme=tokyonight&title_color=FFff&hide_border=disabled)
+//text_color, icon_color, bg_color, 
 
  <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
