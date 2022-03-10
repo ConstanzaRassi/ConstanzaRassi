@@ -3,16 +3,21 @@
 ## 🙋About me
 ### I´m a software developer 
 
-- ⚡ I’m currently studying technical degree in programming
-- ⚡ I´m working on Juan Toselli Intl Tours
-- ⚡ You can see my portfolios at My Portfolio 
-- ⚡ You can contact me **cotirassi@gmail.com**
+- 📚 I’m studying technical degree in programming
+- 💪 I´m currently working on Juan Toselli Intl. Tours
+- 💻 You can see my projects at **My Portfolio** 
+- 📧 You can contact with me on **cotirassi@gmail.com**
 
-### Connect with me:
+<br>
+<br>
+
+![Constanza Rassi's GitHub stats](https://github-readme-stats.vercel.app/api?username=constanzarassi&show_icons=true&theme=react&hide_border=disabled&bg_color=0D1117&icon_color=6252FF)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ConstanzaRassi&theme=react&hide_border=true&background=0D1117&ring=6252FF&fire=6252FF&currStreakNum=6252FF&currStreakLabel=6252FF)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ConstanzaRassi&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
-![Constanza Rassi's GitHub stats](https://github-readme-stats.vercel.app/api?username=constanzarassi&show_icons=true&theme=tokyonight&title_color=FFff&hide_border=disabled)
  <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />    
@@ -32,10 +37,15 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />  
 </div>
 
+<br>
+<br>
 
 
+### Connect with me
 
+<p align="left">
 
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+<a href="https://www.instagram.com/cotirassi/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+<a href="https://www.linkedin.com/in/constanzarassi/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</p>
 
