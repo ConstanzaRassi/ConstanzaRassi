@@ -11,7 +11,6 @@
 <br>
 <br>
 
-![Constanza Rassi's GitHub stats](https://github-readme-stats.vercel.app/api?username=constanzarassi&show_icons=true&theme=react&hide_border=disabled&bg_color=0D1117&icon_color=6252FF)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ConstanzaRassi&theme=react&hide_border=true&background=0D1117&ring=6252FF&fire=6252FF&currStreakNum=6252FF&currStreakLabel=6252FF)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
