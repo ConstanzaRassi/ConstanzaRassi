@@ -1,11 +1,11 @@
 # Hi there, I'm Coti 👋 
 
 ## 🙋About me
-### I´m a software developer 
+### I'm a software developer 
 
-- 📚 I’m studying technical degree in programming
-- 💪 I´m currently working on Juan Toselli Intl. Tours
-- 💻 You can see my projects at **My Portfolio** 
+- 📚 I'm studying technical degree in programming
+- 💪 I'm currently working in Juan Toselli Intl. Tours
+- 💻 You can see my projects at **My Portfolio** [not finished yet]
 - 📧 You can contact with me on **cotirassi@gmail.com**
 
 <br>
