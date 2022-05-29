@@ -4,7 +4,7 @@
 ### I'm a software developer 
 
 - 📚 I'm studying technical degree in programming
-- 💪 I'm currently working in Juan Toselli Intl. Tours
+- 💪 I'm currently working as a back-end developer in Juan Toselli Intl. Tours
 - 💻 You can see my projects at **My Portfolio** [not finished yet]
 - 📧 You can contact me on **cotirassi@gmail.com**
 
