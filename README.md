@@ -3,10 +3,10 @@
 ## 🙋About me
 ### I'm a software developer 
 
-- 📚 I'm studying technical degree in programming
+- 📚 I've studied university degree in programming
 - 💪 I'm currently working as a back-end developer in Juan Toselli Intl. Tours
-- 💻 You can see my projects at **My Portfolio** [not finished yet]
-- 📧 You can contact me on **cotirassi@gmail.com**
+- 💻 You can see my projects in **My Portfolio** [not finished yet]
+- 📧 Feel free to contact me on **cotirassi@gmail.com**
 
 <br>
 <br>
@@ -27,10 +27,9 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />  
@@ -40,10 +39,9 @@
 <br>
 
 
-### Connect with me
+#### My social medias
 
 <p align="left">
-
 <a href="https://www.instagram.com/cotirassi/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
 <a href="https://www.linkedin.com/in/constanzarassi/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </p>
