@@ -4,8 +4,8 @@
 ### I'm a software developer 
 
 - 📚 I've studied university degree in programming
-- 💪 I'm currently working as a back-end developer in Juan Toselli Intl. Tours
-- 💻 You can see my projects in **My Portfolio** [not finished yet]
+- 💪 I'm currently working as a back-end developer
+- 💻 You can see my projects in <a href="https://constanzarassi.netlify.app/">**My Portfolio**<a> [not finished yet]
 - 📧 Feel free to contact me on **cotirassi@gmail.com**
 
 <br>
