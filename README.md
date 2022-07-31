@@ -39,7 +39,7 @@
 <br>
 
 
-#### My social medias
+### My social medias
 
 <p align="left">
 <a href="https://www.instagram.com/cotirassi/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
