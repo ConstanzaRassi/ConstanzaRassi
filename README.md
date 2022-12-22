@@ -14,7 +14,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ConstanzaRassi&theme=react&hide_border=true&background=0D1117&ring=6252FF&fire=6252FF&currStreakNum=6252FF&currStreakLabel=6252FF)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ConstanzaRassi&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
  <div style="display: inline_block"><br>
