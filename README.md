@@ -5,7 +5,7 @@
 
 - 📚 I've studied university degree in programming
 - 💪 I'm currently working as a back-end developer
-- 💻 You can see my projects in <a href="constanzarassi.com.ar">**My Portfolio**<a> [not finished yet]
+- 💻 You can see my projects in <a href="www.constanzarassi.com.ar">**My Portfolio**<a> [not finished yet]
 - 📧 Feel free to contact me on **cotirassi@gmail.com**
 
 <br>
