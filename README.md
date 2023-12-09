@@ -3,9 +3,9 @@
 ## 🙋About me
 ### I'm a software developer 
 
-- 📚 I've studied university degree in programming
+- 🎓 Graduated from National Technological University
 - 💪 I'm currently working as a back-end developer
-- 💻 You can see my projects in <a href="www.constanzarassi.com.ar">**My Portfolio**<a> [not finished yet]
+- 💻 You can see my projects in <a href="https://constanzarassi.com.ar/">**constanzarassi.com.ar**<a>
 - 📧 Feel free to contact me on **cotirassi@gmail.com**
 
 <br>
@@ -31,7 +31,6 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />  
 </div>
 
 <br>
