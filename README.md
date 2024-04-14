@@ -4,8 +4,7 @@
 ### I'm a software developer 
 
 - 🎓 Graduated from National Technological University
-- 📚 Studying a Diploma in National University of Cordoba
-- 💪 I'm currently working as a back-end developer
+- 📚 Studying a DevOps Diploma in National University of Cordoba
 - 💻 You can see my projects in <a href="https://constanzarassi.com.ar/">**constanzarassi.com.ar**<a>
 - 📧 Feel free to contact me on **cotirassi@gmail.com**
 
