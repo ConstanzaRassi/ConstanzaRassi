@@ -5,7 +5,7 @@
 
 - 🎓 Graduated from National Technological University
 - 📚 Studying a DevOps Diploma in National University of Cordoba
-- 💻 You can see my projects in <a href="https://constanzarassi.com.ar/">**constanzarassi.com**<a>
+- 💻 You can see my projects in <a href="https://constanzarassi.com/">**constanzarassi.com**<a>
 - 📧 Feel free to contact me on **cotirassi@gmail.com**
 
 <br>
